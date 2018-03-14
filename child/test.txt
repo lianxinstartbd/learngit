@@ -1,2 +1,2 @@
 test text
-test child_text
+test father_dir
